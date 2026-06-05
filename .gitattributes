@@ -1,0 +1,2 @@
+fungi_classes.json filter=lfs diff=lfs merge=lfs -text
+fungi_model.onnx filter=lfs diff=lfs merge=lfs -text
