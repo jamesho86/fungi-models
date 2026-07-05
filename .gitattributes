@@ -1,3 +1,5 @@
 fungi_classes.json filter=lfs diff=lfs merge=lfs -text
 fungi_model.onnx filter=lfs diff=lfs merge=lfs -text
 fungi_backbone_int8.onnx filter=lfs diff=lfs merge=lfs -text
+fungi_hierarchical_int8.onnx filter=lfs diff=lfs merge=lfs -text
+fungi_taxonomy.json filter=lfs diff=lfs merge=lfs -text
